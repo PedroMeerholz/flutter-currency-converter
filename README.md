@@ -11,6 +11,6 @@ Conversor de moedas desenvolvida em Dart com o framework Flutter.
 - Conversão de Euro para Real
 - Conversão de Euro para Dólar
 
-## Fonte das coteçãoes atualizadas
+## Fonte das cotações atualizadas
 
 Todas as cotações são obtidas através da [HG Finance API](https://hgbrasil.com/status/finance).
