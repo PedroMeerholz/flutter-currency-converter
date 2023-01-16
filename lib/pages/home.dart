@@ -50,6 +50,19 @@ class HomeState extends State<Home> {
             ),
           ),
           centerTitle: true,
+          actions: [
+            IconButton(
+              onPressed: () {
+                realController.clear();
+                dolarController.clear();
+                euroController.clear();
+              },
+              icon: Icon(
+                Icons.refresh,
+                color: Colors.black,
+              ),
+            ),
+          ],
         ),
         body: FutureBuilder(
           builder: (context, snapshot) {
