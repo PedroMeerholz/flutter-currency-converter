@@ -1,16 +1,16 @@
-# currency_converter
+# Currency Converter
 
-A new Flutter project.
+Conversor de moedas desenvolvida em Dart com o framework Flutter.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Conversão de Real para Dólar
+- Conversão de Real para Euro
+- Conversão de Dólar para Real
+- Conversão de Dólar para Euro
+- Conversão de Euro para Real
+- Conversão de Euro para Dólar
 
-A few resources to get you started if this is your first Flutter project:
+## Fonte das coteçãoes atualizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Todas as cotações são obtidas através da [HG Finance API](https://hgbrasil.com/status/finance).
